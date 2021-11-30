@@ -6,7 +6,7 @@ NFT PREVIEW CARD is a challenge to build out this preview card component and get
 
 ![Home](/Screenshots/desktop-design.jpg "Home")
 
-![Mobile View](/screenshots/mobile-design.jpg)
+![Mobile View](/Screenshots/mobile-design.jpg)
 
 
 ## Built With
